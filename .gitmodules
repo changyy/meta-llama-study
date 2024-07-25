@@ -1,0 +1,9 @@
+[submodule "resource/transformers"]
+	path = resource/transformers
+	url = https://github.com/huggingface/transformers
+[submodule "resource/llama.cpp"]
+	path = resource/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp
+[submodule "resource/llama-models"]
+	path = resource/llama-models
+	url = https://github.com/meta-llama/llama-models
